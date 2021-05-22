@@ -1,4 +1,4 @@
-# Dancing Robert
+# Dancing Robot
  A Robot which dance on hover.
  
 ## Getting Started
